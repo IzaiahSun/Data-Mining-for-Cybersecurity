@@ -1,2 +1,2 @@
 # Data-Mining-for-Cybersecurity
-Data Mining for Cybersecurity
+Normal homework and course design of Cybersecurity Data Mining
